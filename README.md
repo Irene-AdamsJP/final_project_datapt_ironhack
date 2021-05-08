@@ -1,6 +1,6 @@
 # final_project_datapt_ironhack: Final project of my data bootcamp: Analysis of stock price of companies vs. number of news published of this companies
 
-![Image](https://blogs.iadb.org/ideas-que-cuentan/wp-content/uploads/sites/11/2020/06/big-data-gobiernos-América-Latina-Caribe-movilidad-privacidad-COVID-19-coronavirus-min.jpg)
+![Image](https://image.freepik.com/vector-gratis/fondo-digital-abstracto-big-data-tecnologia_41981-545.jpg)
 
 
 ## **Presentation:**
